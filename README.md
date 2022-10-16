@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 id="welcome" align="center">
+  ¡Hey, que tal! 👋<br>
+  Este es mi perfil de UMG 💻
+</h1>
 
-<!--
-**danielumg22-269/danielumg22-269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+<p>Te invito a mi perfil principal de github</p>
+<span>👇</span>
+<br><br>
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noriega402/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
