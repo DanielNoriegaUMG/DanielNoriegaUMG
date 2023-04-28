@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/danielumg22-269/danielumg22-269/blob/main/bannerUMG.png" width="800"/>
+  <img src="https://github.com/danielumg22-269/danielumg22-269/blob/main/banner-umg.png" width="800"/>
 </div>
 <h1 id="welcome" align="center">
   ¡Hey, que tal! 👋<br>
