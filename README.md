@@ -14,6 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noriega402/)
   
   ### Lenguajes usados
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNoriegaUMG&layout=compact)](https://github.com/DanielNoriegaUMG/)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNoriegaUMG&theme=blue-green)](https://github.com/DanielNoriegaUMG/)
 
 </div>
